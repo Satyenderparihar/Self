@@ -1,0 +1,98 @@
+Got it ✅
+I’ll extract all the shortcut names, usage notes, and links from your HTML and arrange them into a clean table.
+
+---
+
+## 📋 Shortcuts Table
+
+| Category              | Name                  | Usage / Notes        | Link                                                                                                 |
+| --------------------- | --------------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Trading Station**   | Bank Nifty            | TradingView Chart    | [Link](https://in.tradingview.com/chart/g4zQtgXr/?symbol=NSE%3ABANKNIFTY)                            |
+|                       | Nifty                 | TradingView Chart    | [Link](https://in.tradingview.com/chart/g4zQtgXr/?symbol=NSE%3ANIFTY)                                |
+|                       | HDFC Bank             | TradingView Chart    | [Link](https://in.tradingview.com/chart/g4zQtgXr/?symbol=NSE%3AHDFCBANK)                             |
+|                       | XAU/USD               | Gold Forex Pair      | [Link](https://in.tradingview.com/chart/g4zQtgXr/?symbol=FXOPEN%3AXAUUSD)                            |
+|                       | BTC/USDT              | Bitcoin Pair         | [Link](https://in.tradingview.com/chart/g4zQtgXr/?symbol=BINANCE%3ABTCUSDT.P)                        |
+|                       | HDFC Securities       | Trading Platform     | [Link](https://ntrade.hdfcsec.com/)                                                                  |
+| **Development Tools** | GitHub                | Code Hosting         | [Link](https://github.com/)                                                                          |
+|                       | Replit                | Online IDE           | [Link](https://replit.com/~)                                                                         |
+|                       | GitLab                | Code Repository      | [Link](https://gitlab.com/)                                                                          |
+|                       | Bitbucket             | Repo Hosting         | [Link](https://bitbucket.org/)                                                                       |
+|                       | Glitch                | Web App Builder      | [Link](https://glitch.com/)                                                                          |
+|                       | CodePen               | Frontend Sandbox     | [Link](https://codepen.io/)                                                                          |
+|                       | JSFiddle              | Code Playground      | [Link](https://jsfiddle.net/)                                                                        |
+|                       | CodeSandbox           | Online IDE           | [Link](https://codesandbox.io/)                                                                      |
+|                       | StackBlitz            | Web IDE              | [Link](https://stackblitz.com/)                                                                      |
+|                       | Exercism              | Coding Practice      | [Link](https://exercism.org/)                                                                        |
+|                       | LeetCode              | Coding Problems      | [Link](https://leetcode.com/)                                                                        |
+|                       | HackerRank            | Coding Challenges    | [Link](https://www.hackerrank.com/)                                                                  |
+|                       | Codewars              | Coding Kata          | [Link](https://www.codewars.com/)                                                                    |
+|                       | TopCoder              | Competitive Coding   | [Link](https://www.topcoder.com/)                                                                    |
+|                       | Coderbyte             | Challenges & Courses | [Link](https://www.coderbyte.com/)                                                                   |
+|                       | InterviewBit          | Coding Prep          | [Link](https://www.interviewbit.com/)                                                                |
+|                       | EdX                   | Online Courses       | [Link](https://www.edx.org/)                                                                         |
+|                       | Coursera              | Learning Platform    | [Link](https://www.coursera.org/)                                                                    |
+| **Coding Courses**    | Roadmap.sh            | Developer Roadmaps   | [Link](https://roadmap.sh/)                                                                          |
+|                       | OverAPI               | Coding Cheat Sheets  | [Link](https://overapi.com/)                                                                         |
+|                       | Goalkicker            | Coding Books         | [Link](https://goalkicker.com/)                                                                      |
+|                       | Coddy Tech            | Coding Courses       | [Link](https://coddy.tech/courses)                                                                   |
+|                       | Class Central         | Free Certifications  | [Link](https://www.classcentral.com/report/free-developer-it-certifications/?ref=dailydev#google)    |
+|                       | freeCodeCamp          | Free Coding Courses  | [Link](https://www.freecodecamp.org/learn)                                                           |
+|                       | Udemy                 | Online Courses       | [Link](https://www.udemy.com/)                                                                       |
+|                       | CodeWithHarry         | Coding Tutorials     | [Link](https://www.codewithharry.com/)                                                               |
+|                       | uiverse.io            | Free UI Kits         | [Link](https://uiverse.io/)                                                                          |
+|                       | HTML Interview Q\&A   | HTML Questions       | [Link](https://designwithrehana.com/top-30-html-interview-questions-and-answers-2/)                  |
+|                       | CodeConvert           | Code Converter       | [Link](https://www.codeconvert.ai/free-code-generator)                                               |
+| **Python Resources**  | Learn Python          | Python Basics        | [Link](https://www.learnpython.org/)                                                                 |
+|                       | Python Swaroop        | Python eBook         | [Link](https://python.swaroopch.com/)                                                                |
+|                       | Dive Into Python 3    | Python Book          | [Link](https://diveintopython3.net/)                                                                 |
+|                       | PythonSpot            | Python Tutorials     | [Link](https://pythonspot.com/)                                                                      |
+|                       | Full Stack Python     | Python Web Dev       | [Link](https://www.fullstackpython.com/)                                                             |
+| **Linktree**          | Abhinav Singh         | Dev Portfolio        | [Link](https://linktr.ee/webdevabhinav)                                                              |
+| **Coding YouTube**    | CodeWithHarry         | Tutorials            | [Link](https://www.youtube.com/@CodeWithHarry)                                                       |
+|                       | freeCodeCamp.org      | Tutorials            | [Link](https://www.youtube.com/@freecodecamp)                                                        |
+|                       | Traversy Media        | Tutorials            | [Link](https://www.youtube.com/@TraversyMedia)                                                       |
+|                       | Programming with Mosh | Tutorials            | [Link](https://www.youtube.com/@ProgrammingwithMosh)                                                 |
+|                       | Academind             | Tutorials            | [Link](https://www.youtube.com/@Academind)                                                           |
+| **Coding Instagram**  | Code With Harry       | Coding Reels         | [Link](https://www.instagram.com/codewithharry/)                                                     |
+|                       | Code With Imraan      | Coding Reels         | [Link](https://www.instagram.com/codewithimraan/profilecard/?igsh=Mzh1cHgwdTUxcWRj)                  |
+|                       | Codz Learner          | Coding Reels         | [Link](https://www.instagram.com/codzlearner?igsh=bG56NGppZGRvaWxw)                                  |
+|                       | freeCodeCamp          | Coding Content       | [Link](https://www.instagram.com/freecodecamp/)                                                      |
+|                       | Python Hub            | Python Tips          | [Link](https://www.instagram.com/python.hub/)                                                        |
+| **Telegram**          | Python Hub            | Python Group         | [Link](https://t.me/pythonhub)                                                                       |
+| **Google Services**   | Gmail                 | Email                | [Link](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)                                          |
+|                       | Google Drive          | Storage              | [Link](https://drive.google.com/drive/my-drive)                                                      |
+|                       | Google Photos         | Photos               | [Link](https://photos.google.com/)                                                                   |
+|                       | Google Keep           | Notes                | [Link](https://keep.google.com/u/0/)                                                                 |
+|                       | Google Docs           | Docs                 | [Link](https://docs.google.com/document/d/17MXDbUcnpYAu9IqcSvtORcxOleBMVKGR2zTgi0N-Ot4/edit?tab=t.0) |
+| **AI Tools**          | Poe                   | AI Chat              | [Link](https://poe.com/)                                                                             |
+|                       | ChatGPT               | AI Chat              | [Link](https://chat.openai.com/)                                                                     |
+|                       | Microsoft Copilot     | AI Assistant         | [Link](https://copilot.microsoft.com/)                                                               |
+|                       | TinyWow               | AI Tools             | [Link](https://www.tinywow.com/)                                                                     |
+|                       | Futurepedia           | AI Tools             | [Link](https://www.futurepedia.io/)                                                                  |
+|                       | AI Tools              | Directory            | [Link](https://aitools.fyi/)                                                                         |
+|                       | Product Hunt          | Product Discovery    | [Link](https://www.producthunt.com/)                                                                 |
+|                       | The AI List           | AI Directory         | [Link](https://theailist.com/)                                                                       |
+|                       | Top AI Tools          | Directory            | [Link](https://topaitools.com/)                                                                      |
+| **Amazing Websites**  | Virtual Vacation      | Explore Places       | [Link](https://virtualvacation.us/)                                                                  |
+| **Tools**             | Chrome Web Store      | Extensions           | [Link](https://chromewebstore.google.com/?pli=1)                                                     |
+| **PDF Tools**         | Sejda PDF Editor      | PDF Editing          | [Link](https://www.sejda.com/pdf-editor)                                                             |
+| **Music Services**    | YouTube Music         | Music                | [Link](https://music.youtube.com/)                                                                   |
+|                       | Spotify               | Music                | [Link](https://www.spotify.com/)                                                                     |
+|                       | Apple Music           | Music                | [Link](https://www.apple.com/apple-music/)                                                           |
+| **Social Media**      | WhatsApp              | Messaging            | [Link](https://web.whatsapp.com/)                                                                    |
+|                       | Telegram              | Messaging            | [Link](https://telegram.org/)                                                                        |
+|                       | Facebook              | Social               | [Link](https://www.facebook.com/)                                                                    |
+|                       | Instagram             | Social               | [Link](https://www.instagram.com/)                                                                   |
+|                       | Threads               | Social               | [Link](https://www.threads.net/)                                                                     |
+|                       | Twitter               | Social               | [Link](https://twitter.com/)                                                                         |
+|                       | Pinterest             | Social               | [Link](https://www.pinterest.com/)                                                                   |
+|                       | Discord               | Community            | [Link](https://discord.com/)                                                                         |
+|                       | LinkedIn              | Professional         | [Link](https://www.linkedin.com/)                                                                    |
+|                       | Reddit                | Community            | [Link](https://www.reddit.com/)                                                                      |
+|                       | WeChat                | Messaging            | [Link](https://www.wechat.com/)                                                                      |
+|                       | Quora                 | Q\&A                 | [Link](https://www.quora.com/)                                                                       |
+
+---
+
+If you want, I can also **make this into an Excel file** so it’s easier to click and manage all links.
+Do you want me to prepare that Excel version next?
